@@ -1,0 +1,1001 @@
+PatientID,Age,Gender,BloodPressure,HeartRate,RespiratoryRate,Temperature,GlasgowComaScale,Symptoms,PreexistingConditions,TriageLevel
+2231,23,F,153/70,83,25,40.3,7,Fever,COPD,1
+3381,56,M,112/84,67,19,37.7,9,Chest Pain,Hypertension,3
+1968,90,M,165/78,80,15,37.0,10,Shortness of Breath,Arthritis,4
+2952,86,M,158/115,61,20,38.2,4,Dizziness,Cancer,3
+5301,60,F,157/82,60,17,36.4,12,Dizziness,Obesity,2
+4290,51,F,128/98,80,25,40.9,13,Fatigue,None,3
+7791,48,F,169/82,69,29,35.3,10,Dizziness,Asthma,3
+776,79,M,149/115,72,12,36.8,7,Shortness of Breath,Asthma,1
+8100,40,M,152/114,66,25,39.5,3,Confusion,Asthma,1
+9280,50,F,144/111,70,28,36.4,13,Chest Pain,Cancer,1
+829,75,M,161/72,107,15,37.7,9,Nausea,Heart Disease,1
+3613,85,F,119/60,90,12,36.4,11,Fever,Heart Disease,3
+2961,82,M,168/114,86,20,35.5,14,Shortness of Breath,Obesity,2
+2135,64,M,128/77,93,17,36.7,7,Severe Pain,Cancer,4
+4122,84,M,96/80,99,25,36.1,7,Headache,Arthritis,1
+805,59,M,179/73,100,21,38.3,7,Nausea,Asthma,3
+8559,18,F,174/72,72,16,36.5,5,Confusion,Hypertension,1
+9823,33,F,141/81,61,25,39.4,12,Shortness of Breath,Diabetes,4
+1845,31,F,94/85,67,19,36.0,12,Fatigue,Arthritis,5
+7398,52,M,176/79,70,16,37.8,5,Abdominal Pain,Arthritis,5
+4259,30,F,91/70,91,29,40.1,9,Headache,Arthritis,5
+8871,36,M,90/60,82,18,36.5,10,Headache,Arthritis,5
+6148,77,F,95/72,81,12,35.8,12,Dizziness,Cancer,3
+1469,48,M,92/97,69,27,36.5,5,Abdominal Pain,Heart Disease,5
+3675,56,F,107/82,106,24,40.3,10,Chest Pain,Obesity,5
+5654,89,M,143/83,102,17,37.0,9,Abdominal Pain,Heart Disease,4
+5408,56,F,166/82,111,16,38.4,10,Shortness of Breath,Asthma,3
+9936,86,M,158/70,79,28,37.1,10,Headache,Hypertension,2
+4315,74,F,121/92,87,24,40.1,11,Shortness of Breath,Cancer,3
+6591,52,F,180/96,93,29,36.0,4,Abdominal Pain,None,1
+3592,71,F,141/87,115,21,35.1,10,Severe Pain,Diabetes,1
+7806,90,M,93/64,88,23,36.0,14,Nausea,Hypertension,2
+4312,30,F,143/99,68,30,35.1,14,Headache,Arthritis,2
+9036,61,M,129/90,78,29,35.1,11,Headache,Heart Disease,3
+6057,36,F,114/84,97,26,37.1,4,Headache,Diabetes,1
+8523,22,F,93/95,115,15,40.8,13,Dizziness,Cancer,5
+2706,41,F,145/80,116,29,37.3,3,Severe Pain,Asthma,1
+5361,63,M,143/94,113,28,37.6,13,Confusion,Cancer,5
+4559,52,F,146/66,119,19,35.6,11,Fever,Arthritis,4
+5708,36,F,93/61,79,19,39.8,6,Severe Pain,Diabetes,5
+9979,51,M,175/96,71,13,35.5,9,Nausea,Asthma,1
+8718,30,F,94/117,101,30,38.0,9,Dizziness,Diabetes,2
+3701,64,F,148/107,105,25,40.2,10,Fatigue,Hypertension,1
+2130,50,F,130/66,118,30,35.3,10,Severe Pain,Hypertension,1
+1469,49,F,165/110,75,27,37.4,6,Dizziness,Arthritis,5
+7000,28,M,124/114,69,18,39.9,3,Nausea,COPD,1
+2486,21,F,131/107,119,29,37.2,6,Nausea,Arthritis,5
+4086,78,M,107/103,64,23,37.6,7,Fatigue,None,1
+2411,57,M,129/68,66,19,38.1,15,Severe Pain,Asthma,4
+5909,67,F,163/79,91,21,35.4,11,Chest Pain,Arthritis,3
+5857,77,M,159/67,65,12,38.4,7,Fatigue,Obesity,4
+8080,63,F,91/77,120,27,39.5,7,Fever,Arthritis,2
+783,21,M,131/93,64,29,37.2,14,Chest Pain,Obesity,1
+9850,36,M,138/97,78,29,35.9,13,Fever,Cancer,2
+967,40,F,130/105,109,26,35.5,8,Shortness of Breath,COPD,2
+1064,76,M,176/116,98,16,35.1,8,Fatigue,Asthma,1
+1385,58,F,129/76,85,24,35.4,9,Nausea,Diabetes,2
+4550,41,M,107/82,100,25,35.1,8,Abdominal Pain,COPD,1
+5090,50,F,90/92,65,18,40.9,8,Fever,Obesity,4
+7247,46,M,168/99,111,14,35.8,8,Shortness of Breath,Obesity,4
+1360,28,M,130/75,68,24,40.9,15,Fever,COPD,2
+9200,44,F,116/81,117,13,35.9,11,Severe Pain,Hypertension,4
+5578,21,M,101/118,72,13,36.2,9,Shortness of Breath,Cancer,1
+7360,60,F,169/86,67,22,37.3,10,Severe Pain,Hypertension,4
+9522,18,M,121/79,87,30,37.2,11,Fatigue,Arthritis,4
+2489,60,F,96/82,83,12,35.1,12,Chest Pain,Hypertension,1
+6065,87,F,149/114,112,26,40.0,13,Abdominal Pain,Heart Disease,3
+8431,24,F,169/109,118,26,36.0,4,Headache,Diabetes,1
+3699,69,F,140/101,66,28,36.9,10,Headache,Diabetes,4
+1126,89,M,94/107,61,15,39.4,14,Shortness of Breath,Arthritis,3
+1050,24,F,99/119,99,15,40.1,8,Shortness of Breath,Obesity,4
+9004,83,F,102/105,94,18,36.3,6,Dizziness,Asthma,3
+7265,50,M,133/85,95,19,36.1,15,Dizziness,Hypertension,2
+9599,75,F,125/87,64,17,40.4,9,Shortness of Breath,Diabetes,2
+295,89,F,95/74,107,23,36.2,6,Abdominal Pain,None,4
+2278,64,F,99/76,120,16,35.7,4,Headache,Asthma,3
+1775,34,M,148/82,78,18,36.7,5,Fatigue,Diabetes,4
+5755,90,F,160/112,91,16,38.9,13,Abdominal Pain,Hypertension,4
+2781,89,M,165/73,68,21,37.1,3,Dizziness,Diabetes,5
+3550,39,M,98/64,93,23,35.0,3,Chest Pain,Hypertension,5
+2216,53,M,94/73,61,21,36.5,13,Shortness of Breath,COPD,5
+6070,70,F,150/67,75,20,37.8,12,Nausea,COPD,4
+5926,53,M,178/104,87,24,35.7,9,Dizziness,Asthma,1
+3382,81,F,167/62,88,30,36.5,11,Fatigue,Arthritis,4
+8620,61,F,126/106,87,13,38.3,7,Dizziness,Heart Disease,2
+7071,37,F,116/69,113,12,40.8,13,Shortness of Breath,Hypertension,1
+3611,26,M,111/101,108,17,36.5,12,Shortness of Breath,None,3
+8001,40,F,161/88,102,21,39.8,4,Fever,Arthritis,4
+2628,51,F,129/80,60,12,36.4,4,Headache,Obesity,1
+5032,67,F,138/69,118,19,39.8,9,Shortness of Breath,None,4
+337,20,M,106/69,98,26,39.3,10,Confusion,Asthma,1
+47,89,M,125/74,61,28,38.6,15,Fever,Heart Disease,1
+5511,67,F,138/63,118,29,36.6,12,Abdominal Pain,Obesity,3
+5728,36,F,154/110,68,28,39.7,8,Severe Pain,Heart Disease,3
+2012,21,F,168/88,70,21,38.3,10,Severe Pain,Cancer,5
+1084,86,M,109/81,100,12,38.5,14,Chest Pain,Diabetes,1
+6257,63,F,112/112,85,20,39.6,15,Confusion,Diabetes,1
+5882,33,F,174/107,61,17,35.1,9,Severe Pain,Cancer,2
+8129,59,M,144/85,92,28,35.5,10,Confusion,Diabetes,4
+2056,78,M,152/103,71,24,36.8,3,Confusion,Hypertension,5
+8611,81,M,97/88,78,16,39.2,3,Confusion,Hypertension,4
+3318,81,F,114/94,107,18,40.1,10,Headache,Cancer,3
+2328,30,M,129/87,117,22,37.1,7,Fatigue,None,1
+9362,45,M,168/113,97,13,36.3,12,Chest Pain,Heart Disease,3
+9605,41,M,122/104,70,21,38.0,4,Nausea,Arthritis,4
+392,75,M,156/109,68,24,37.2,13,Headache,None,1
+9269,71,M,174/85,102,15,38.9,3,Confusion,COPD,2
+3292,36,M,134/83,86,13,38.2,11,Abdominal Pain,COPD,1
+6946,81,F,159/79,108,22,40.3,13,Severe Pain,Arthritis,3
+8716,76,F,124/99,62,18,35.9,4,Chest Pain,Diabetes,1
+6904,59,F,108/119,111,27,40.4,14,Abdominal Pain,Cancer,3
+9704,24,F,109/104,102,24,37.6,9,Fever,Asthma,5
+7322,49,F,130/100,81,26,36.4,10,Headache,Asthma,4
+7029,65,M,153/120,62,22,39.4,4,Abdominal Pain,Obesity,5
+2298,37,M,179/86,77,15,35.2,5,Shortness of Breath,Heart Disease,5
+1476,19,F,100/64,72,15,37.8,9,Chest Pain,Heart Disease,2
+8743,64,M,172/70,62,20,37.8,8,Confusion,Hypertension,1
+934,50,F,133/80,64,13,37.3,8,Shortness of Breath,Hypertension,3
+6541,83,M,173/119,79,26,36.4,13,Headache,Diabetes,2
+372,52,M,141/114,107,25,37.4,7,Confusion,None,3
+4896,41,M,95/114,65,24,37.3,11,Headache,Arthritis,2
+1379,23,M,172/115,67,14,39.8,14,Confusion,None,3
+1320,58,M,172/86,76,27,36.9,15,Shortness of Breath,Obesity,3
+6578,59,M,133/63,89,22,39.8,3,Chest Pain,Cancer,1
+2634,45,M,93/70,67,24,38.1,5,Chest Pain,Heart Disease,2
+7274,33,M,143/94,90,25,36.6,5,Headache,Heart Disease,1
+1780,56,F,94/96,119,25,36.5,5,Shortness of Breath,Diabetes,3
+671,58,M,175/72,70,13,37.9,15,Dizziness,Obesity,4
+7138,39,F,175/104,104,18,39.2,11,Nausea,None,4
+2979,45,M,141/96,86,25,38.5,11,Shortness of Breath,Heart Disease,5
+6792,81,M,106/99,67,24,40.7,5,Nausea,Arthritis,2
+1200,43,F,141/62,60,25,36.0,7,Headache,Hypertension,4
+9588,43,M,152/77,79,15,35.4,13,Headache,Asthma,4
+4349,90,F,148/66,65,17,36.5,12,Nausea,COPD,1
+8056,68,M,143/97,85,25,37.9,12,Fever,Heart Disease,3
+7315,27,M,93/81,105,30,40.4,5,Headache,None,5
+4124,24,M,115/68,74,24,37.6,3,Chest Pain,Arthritis,3
+432,59,M,121/102,107,26,38.1,13,Headache,Hypertension,5
+5525,52,M,141/96,73,21,38.7,7,Shortness of Breath,Arthritis,3
+542,43,F,113/90,110,24,40.3,8,Nausea,Obesity,1
+8262,23,M,163/60,105,14,35.3,3,Chest Pain,None,2
+3106,69,F,134/75,89,19,40.5,12,Confusion,Diabetes,1
+9400,36,M,160/79,106,16,35.4,6,Fatigue,None,3
+7968,87,M,112/107,82,29,39.3,15,Abdominal Pain,Asthma,5
+3049,85,F,92/119,119,16,36.4,8,Abdominal Pain,Heart Disease,4
+8209,85,M,140/117,75,16,35.8,3,Headache,Asthma,5
+1609,35,M,159/63,111,29,35.0,6,Confusion,None,1
+6845,63,F,135/65,82,23,39.2,6,Headache,Hypertension,3
+5845,69,M,93/69,107,15,40.1,12,Confusion,Heart Disease,1
+1309,65,F,160/94,100,26,39.6,11,Confusion,Obesity,2
+2196,36,F,142/119,96,23,35.5,11,Headache,Cancer,3
+4475,36,F,164/94,117,27,39.4,6,Dizziness,Diabetes,5
+237,73,F,128/83,95,19,38.8,10,Confusion,Cancer,5
+3366,19,M,164/108,99,18,39.6,7,Fever,Hypertension,1
+3961,67,M,165/109,65,14,37.4,14,Chest Pain,Asthma,2
+9523,35,F,146/94,93,24,35.5,6,Severe Pain,Asthma,3
+602,36,M,97/84,76,15,37.4,12,Fatigue,COPD,2
+3763,53,M,92/60,98,16,36.2,3,Severe Pain,Hypertension,1
+3098,55,F,122/73,74,29,36.1,15,Headache,Heart Disease,1
+8515,51,F,156/80,85,23,35.7,14,Shortness of Breath,COPD,2
+4549,70,M,119/72,69,22,37.9,11,Chest Pain,Heart Disease,5
+9684,24,M,118/79,87,20,39.3,3,Dizziness,None,2
+3018,66,F,94/60,116,30,38.1,10,Fatigue,Hypertension,5
+5720,42,M,104/114,96,12,37.3,7,Chest Pain,Arthritis,4
+4435,73,F,148/63,117,22,38.5,10,Abdominal Pain,None,1
+1620,60,F,146/75,61,24,40.4,9,Fever,Cancer,5
+815,41,F,129/103,111,17,39.5,15,Headache,Diabetes,4
+7247,41,F,170/79,73,25,39.8,3,Abdominal Pain,None,2
+2185,59,M,164/80,65,12,37.3,8,Nausea,Hypertension,3
+948,29,F,92/100,94,30,40.8,13,Abdominal Pain,Cancer,1
+7994,57,M,144/95,64,15,38.7,15,Fever,Cancer,5
+8457,22,M,101/96,97,17,39.3,15,Fatigue,Hypertension,1
+8721,72,M,157/115,87,28,38.8,13,Confusion,Obesity,2
+7926,55,M,120/99,108,13,37.1,3,Chest Pain,None,1
+1384,31,F,93/80,113,19,38.9,8,Severe Pain,Hypertension,4
+7622,30,F,159/101,95,27,37.9,14,Nausea,COPD,4
+1320,82,F,164/114,117,22,36.8,3,Severe Pain,Obesity,3
+1120,83,F,140/80,95,28,37.2,7,Fever,Diabetes,2
+5722,55,M,142/98,70,15,36.1,10,Nausea,Obesity,3
+1565,22,F,180/73,65,12,36.3,14,Nausea,Obesity,4
+3638,31,M,160/86,68,15,36.3,10,Fatigue,Arthritis,2
+7461,43,M,179/105,115,12,38.9,3,Shortness of Breath,None,4
+7843,66,M,176/75,114,29,36.6,4,Headache,Cancer,2
+5243,46,M,130/63,116,25,37.2,5,Dizziness,COPD,2
+2071,18,F,149/86,101,27,36.2,9,Severe Pain,None,1
+6122,35,M,132/64,98,29,39.4,13,Shortness of Breath,None,4
+8003,22,M,122/91,62,12,39.7,6,Fatigue,Diabetes,2
+1691,90,M,143/73,118,12,35.5,6,Severe Pain,Asthma,3
+4706,73,F,137/120,93,27,39.4,3,Nausea,Asthma,2
+2122,50,M,158/116,100,27,35.2,11,Shortness of Breath,Obesity,1
+9721,68,F,102/64,62,27,40.5,15,Dizziness,COPD,3
+6900,41,F,127/80,96,13,37.0,13,Confusion,Asthma,2
+1665,60,M,131/91,80,21,35.1,12,Chest Pain,Heart Disease,4
+2250,52,F,102/108,110,26,38.1,7,Fever,Cancer,2
+68,67,M,146/102,105,12,38.2,3,Severe Pain,Obesity,2
+5249,75,F,159/120,119,17,36.6,9,Chest Pain,Obesity,1
+7363,28,F,122/63,112,18,36.2,8,Severe Pain,Asthma,2
+3753,60,F,116/73,65,25,38.5,11,Nausea,None,1
+9433,44,F,155/74,95,30,37.3,3,Chest Pain,Cancer,4
+8456,64,F,157/108,113,26,40.4,5,Confusion,Asthma,3
+2215,19,M,117/61,62,30,39.2,3,Nausea,Arthritis,2
+8451,81,M,114/100,116,14,38.2,14,Fatigue,Asthma,4
+3992,82,F,169/109,96,18,36.7,9,Fever,None,3
+8731,64,F,129/115,91,27,39.5,13,Confusion,Arthritis,2
+9697,43,M,108/71,91,13,39.9,15,Chest Pain,None,5
+9429,67,M,121/78,87,24,40.8,9,Headache,None,4
+5755,41,M,176/79,120,27,41.0,15,Fatigue,Cancer,4
+7800,81,F,133/103,90,21,37.7,7,Shortness of Breath,Heart Disease,2
+2814,41,F,153/62,95,25,40.3,5,Headache,Hypertension,2
+8129,40,M,169/72,67,19,39.3,7,Shortness of Breath,None,3
+6374,77,M,126/64,97,27,37.7,10,Headache,Heart Disease,3
+5584,90,F,94/114,93,30,39.5,9,Chest Pain,Arthritis,1
+2187,40,F,172/61,120,15,35.3,3,Severe Pain,Diabetes,2
+4227,48,F,102/107,101,20,39.2,14,Nausea,Arthritis,3
+3,47,F,160/80,69,28,39.7,8,Abdominal Pain,None,1
+112,84,M,123/77,88,24,38.8,8,Fatigue,Obesity,5
+5203,26,M,134/106,83,21,39.0,12,Shortness of Breath,Asthma,4
+5946,69,F,163/77,71,13,38.3,8,Dizziness,Arthritis,3
+5304,18,M,171/65,103,13,40.2,9,Severe Pain,Hypertension,2
+2275,37,F,140/107,104,29,40.9,14,Headache,Obesity,1
+6204,27,M,100/82,85,29,38.3,14,Fatigue,Arthritis,1
+8694,45,M,114/87,91,27,35.4,11,Chest Pain,COPD,4
+8573,89,M,104/95,77,30,39.3,7,Confusion,Heart Disease,5
+490,53,F,108/89,78,25,36.5,8,Chest Pain,Arthritis,3
+6688,23,F,162/106,108,21,36.7,14,Fever,COPD,1
+9388,36,F,117/73,114,12,38.6,14,Fever,Cancer,1
+2335,51,F,94/92,110,13,37.1,12,Headache,None,3
+2368,52,M,112/85,113,16,37.9,10,Headache,Cancer,3
+9454,83,F,103/74,92,26,40.0,5,Dizziness,Cancer,2
+4192,27,M,174/75,104,27,40.6,8,Headache,None,1
+2792,82,F,167/79,102,17,37.4,13,Nausea,Heart Disease,4
+5956,54,M,132/106,106,23,39.4,8,Headache,Asthma,5
+2239,29,M,99/86,109,18,38.6,6,Fever,Obesity,4
+3441,67,F,167/76,68,30,40.2,9,Chest Pain,Diabetes,5
+1304,86,F,169/65,79,16,39.8,14,Fever,Cancer,2
+4611,71,M,127/120,108,13,35.3,15,Severe Pain,COPD,3
+111,34,M,122/75,63,26,38.2,9,Dizziness,Diabetes,5
+8276,41,F,173/95,110,26,39.1,12,Dizziness,Obesity,1
+3159,64,F,100/111,68,23,38.7,11,Nausea,Obesity,5
+63,26,F,124/71,75,13,39.5,11,Severe Pain,None,1
+1187,77,M,106/73,75,27,36.0,7,Dizziness,Asthma,3
+9304,82,F,133/90,116,27,40.6,6,Nausea,Asthma,2
+6738,42,M,109/114,65,21,41.0,5,Abdominal Pain,Asthma,2
+2357,84,F,146/64,93,20,39.3,4,Fever,None,3
+9236,45,F,156/60,106,16,38.2,3,Confusion,Heart Disease,4
+6850,63,F,99/108,109,20,40.6,14,Abdominal Pain,Asthma,2
+3621,28,F,176/94,89,19,36.4,5,Shortness of Breath,Heart Disease,2
+5826,85,F,106/108,72,29,36.8,15,Chest Pain,Hypertension,2
+1880,31,M,163/101,62,20,40.2,9,Headache,Hypertension,2
+6749,62,F,133/61,118,29,37.6,8,Fever,Diabetes,1
+9275,70,M,132/97,87,16,38.5,4,Severe Pain,Diabetes,5
+3167,78,F,136/79,105,22,38.3,5,Fatigue,Obesity,4
+8727,37,M,102/91,91,19,39.1,12,Chest Pain,Diabetes,5
+4860,43,F,177/100,79,19,35.6,5,Confusion,Obesity,3
+5465,48,F,108/115,83,13,37.0,14,Shortness of Breath,Cancer,4
+4575,72,M,95/105,108,19,37.3,6,Fatigue,Asthma,4
+4431,54,M,124/114,69,17,35.5,7,Nausea,Arthritis,2
+6073,71,M,159/71,60,30,37.2,11,Fatigue,Diabetes,4
+136,29,M,105/62,80,20,40.1,10,Severe Pain,None,4
+3715,23,M,156/94,90,21,37.2,3,Dizziness,Asthma,4
+9445,31,F,160/96,94,13,36.1,8,Nausea,Heart Disease,3
+1459,79,M,130/113,61,29,39.9,7,Nausea,None,2
+4736,27,F,108/71,98,29,39.7,5,Chest Pain,Obesity,3
+6563,40,M,152/73,90,25,36.3,3,Dizziness,Obesity,1
+113,89,F,162/102,69,26,38.7,3,Headache,None,4
+1891,71,M,156/97,63,28,38.7,13,Headache,Heart Disease,2
+6506,39,F,152/116,69,26,40.4,8,Fatigue,Diabetes,3
+5736,39,M,106/108,118,12,39.0,11,Fever,Hypertension,2
+8944,44,M,113/78,105,26,40.1,13,Shortness of Breath,Cancer,4
+7173,68,F,148/67,71,29,40.5,11,Severe Pain,Hypertension,3
+1088,64,F,109/63,81,15,37.7,3,Severe Pain,Heart Disease,5
+5515,70,M,99/77,61,17,36.0,7,Headache,COPD,1
+3342,68,F,91/117,92,29,37.4,11,Fever,Asthma,3
+7656,88,F,167/74,82,30,35.2,5,Fever,Arthritis,4
+9868,50,M,91/104,71,21,35.5,11,Fatigue,Arthritis,5
+5496,22,F,139/95,111,27,39.5,4,Dizziness,COPD,2
+9620,76,M,130/90,113,26,40.9,6,Abdominal Pain,Hypertension,1
+5205,47,M,155/117,77,13,40.1,13,Shortness of Breath,Heart Disease,4
+5583,59,M,149/77,120,20,39.8,15,Fever,Arthritis,5
+5829,26,F,93/110,66,12,36.9,8,Headache,Cancer,5
+8595,85,M,106/110,92,22,39.6,5,Dizziness,COPD,2
+3469,24,M,114/109,70,22,36.2,14,Chest Pain,Hypertension,4
+5118,18,M,104/80,115,17,36.1,9,Headache,None,2
+4927,54,F,171/105,90,15,38.1,8,Dizziness,Heart Disease,1
+1526,24,M,150/82,80,24,40.6,8,Severe Pain,None,1
+8357,30,F,96/98,107,26,35.4,10,Fatigue,Arthritis,4
+3180,51,M,165/72,91,24,40.8,6,Confusion,Diabetes,1
+8919,25,F,173/111,81,15,36.1,7,Nausea,COPD,5
+1469,44,M,176/87,79,30,39.8,12,Nausea,None,1
+6487,44,F,125/97,105,22,35.5,12,Abdominal Pain,Hypertension,3
+1468,76,M,170/101,74,25,37.1,11,Severe Pain,Heart Disease,5
+8926,28,F,113/67,83,21,38.9,12,Abdominal Pain,Arthritis,1
+695,39,M,107/116,80,19,35.2,10,Dizziness,Hypertension,5
+5504,32,F,132/69,102,26,36.3,6,Headache,Obesity,1
+6951,43,F,117/80,92,30,38.4,3,Dizziness,Hypertension,4
+4763,87,M,125/78,97,13,36.5,4,Dizziness,Heart Disease,3
+668,69,F,175/67,104,14,36.3,5,Nausea,Hypertension,4
+6816,80,F,119/76,77,23,35.0,9,Headache,Obesity,2
+4584,57,M,140/115,64,23,40.7,7,Headache,COPD,4
+6346,36,F,160/88,63,28,37.1,3,Severe Pain,Diabetes,4
+3701,85,F,174/76,82,20,36.1,12,Severe Pain,COPD,3
+4228,54,M,130/79,112,14,41.0,14,Nausea,Asthma,1
+2913,59,F,175/75,107,27,39.6,9,Abdominal Pain,Arthritis,3
+1502,30,M,160/79,81,18,39.4,5,Severe Pain,Asthma,4
+2511,38,F,171/64,96,14,38.0,14,Dizziness,Diabetes,5
+9216,26,F,117/88,97,14,35.2,4,Confusion,Obesity,5
+9033,37,F,90/94,66,15,37.8,14,Confusion,Arthritis,4
+8840,47,F,115/103,111,23,38.9,15,Abdominal Pain,Diabetes,4
+9541,47,M,101/108,93,16,36.0,11,Fever,Heart Disease,1
+2710,21,F,142/65,64,18,35.3,7,Abdominal Pain,Arthritis,4
+9383,56,M,131/82,68,27,38.0,11,Abdominal Pain,Hypertension,2
+580,28,F,143/118,111,26,35.2,5,Chest Pain,Arthritis,1
+9401,40,F,178/61,70,18,40.0,4,Confusion,Heart Disease,1
+7006,53,M,169/79,61,24,36.6,9,Fever,Asthma,5
+2262,70,M,167/61,67,23,36.3,8,Headache,Cancer,4
+3150,83,M,96/113,84,13,37.1,6,Shortness of Breath,Diabetes,2
+9083,38,F,171/113,87,16,39.6,13,Fatigue,None,2
+18,76,F,129/75,60,17,35.9,10,Severe Pain,Asthma,5
+5673,77,M,98/102,120,23,37.6,10,Fever,Cancer,2
+3132,26,M,116/119,86,12,40.8,5,Chest Pain,Diabetes,2
+3137,52,F,117/112,68,18,39.9,3,Abdominal Pain,Arthritis,4
+7641,28,M,110/106,74,25,36.2,15,Abdominal Pain,Diabetes,4
+2250,39,M,153/80,103,21,36.5,11,Fatigue,Cancer,1
+7228,26,F,105/99,75,28,35.2,4,Fatigue,Diabetes,3
+8453,75,F,104/101,109,17,38.0,4,Abdominal Pain,COPD,3
+8237,63,F,156/108,113,26,36.1,7,Chest Pain,Heart Disease,3
+8778,37,F,102/113,82,15,37.2,4,Severe Pain,Heart Disease,3
+9577,60,M,128/75,74,21,40.2,9,Dizziness,COPD,5
+6190,83,M,162/80,99,16,38.5,8,Nausea,Diabetes,5
+1331,69,M,149/77,118,18,40.9,4,Nausea,Diabetes,5
+275,18,M,141/80,65,15,38.6,13,Shortness of Breath,None,2
+170,68,F,109/70,83,29,39.0,15,Fatigue,Diabetes,2
+1202,52,F,158/118,106,19,39.5,9,Fatigue,COPD,3
+2013,34,M,97/85,75,20,36.9,9,Headache,Arthritis,1
+1422,49,F,129/78,85,12,38.6,7,Dizziness,Cancer,4
+549,76,F,175/90,118,17,38.3,6,Fatigue,Hypertension,5
+1090,53,M,155/104,72,24,38.0,14,Dizziness,Asthma,5
+9550,56,M,118/67,66,29,35.9,11,Dizziness,Obesity,4
+2008,42,F,91/83,108,26,36.3,9,Dizziness,None,1
+1999,35,M,158/80,94,18,40.5,11,Severe Pain,Heart Disease,2
+2331,42,F,109/71,69,22,36.5,14,Shortness of Breath,Diabetes,3
+523,61,M,171/78,117,16,35.2,4,Chest Pain,Diabetes,2
+7710,83,M,152/100,62,25,36.1,14,Fatigue,Obesity,1
+2664,21,M,145/75,104,14,35.6,3,Chest Pain,Cancer,4
+814,27,F,110/112,106,23,37.2,3,Confusion,Obesity,5
+7344,62,F,90/111,64,22,38.6,14,Shortness of Breath,Cancer,3
+3017,58,M,131/102,76,21,39.1,11,Dizziness,Cancer,1
+802,63,M,90/97,104,16,36.5,8,Severe Pain,Hypertension,5
+9710,82,F,172/87,106,27,37.5,13,Dizziness,Cancer,3
+7028,87,F,155/118,114,24,37.4,10,Fatigue,Hypertension,2
+4652,71,M,119/97,120,24,37.2,12,Dizziness,Cancer,3
+7542,63,F,90/96,71,22,40.5,7,Nausea,Obesity,2
+15,54,F,123/92,73,26,38.8,5,Chest Pain,Arthritis,2
+8379,54,F,129/100,98,21,40.0,14,Abdominal Pain,Obesity,5
+2626,47,M,174/101,80,29,35.7,8,Fatigue,Cancer,3
+4284,66,F,127/110,117,25,40.9,9,Fever,None,1
+2847,70,F,113/97,103,12,38.5,15,Fatigue,Cancer,1
+9975,49,M,164/63,79,18,36.3,8,Severe Pain,Cancer,3
+660,73,F,142/66,78,24,39.8,11,Nausea,Cancer,1
+8873,73,M,104/70,88,27,35.3,13,Abdominal Pain,Hypertension,4
+6166,28,M,116/70,103,13,37.0,7,Abdominal Pain,Cancer,5
+9670,68,F,142/105,101,23,37.0,9,Nausea,Obesity,2
+6307,33,F,173/75,66,13,39.2,15,Fatigue,Heart Disease,1
+1814,55,F,117/71,68,20,39.8,3,Fever,Hypertension,2
+9303,66,M,108/101,73,15,35.9,3,Chest Pain,Asthma,3
+8480,18,F,175/94,120,20,36.7,11,Confusion,Obesity,5
+2050,57,F,138/117,113,21,36.3,10,Severe Pain,COPD,5
+1901,78,F,159/86,90,15,39.6,10,Severe Pain,Cancer,5
+6228,62,F,171/95,69,13,35.5,3,Confusion,Diabetes,4
+391,40,F,177/67,76,18,39.3,11,Shortness of Breath,Asthma,4
+3302,20,F,116/115,86,20,39.1,14,Fever,Cancer,3
+6050,24,F,96/74,87,14,39.5,8,Nausea,Diabetes,1
+5263,29,M,128/72,64,30,39.7,4,Chest Pain,Cancer,1
+1872,56,M,133/117,74,23,35.8,10,Chest Pain,Diabetes,4
+1009,48,F,169/106,74,23,40.4,8,Fatigue,Diabetes,5
+471,48,M,115/78,67,22,36.2,5,Confusion,Arthritis,5
+5967,74,M,102/95,108,13,39.3,3,Chest Pain,Diabetes,4
+4770,85,F,110/72,117,17,35.8,6,Shortness of Breath,Arthritis,2
+2488,29,F,147/115,98,25,37.5,9,Shortness of Breath,Cancer,2
+172,72,F,126/96,105,13,35.4,3,Chest Pain,Arthritis,3
+530,57,F,177/120,71,22,38.3,15,Dizziness,Obesity,1
+3236,26,F,178/114,73,23,38.6,7,Severe Pain,Asthma,3
+9607,78,M,102/90,80,12,38.9,10,Nausea,Diabetes,1
+2151,79,F,139/119,71,13,39.0,12,Dizziness,Hypertension,1
+9209,37,M,91/114,63,27,35.9,15,Fever,Hypertension,4
+6251,19,M,99/104,103,21,39.5,5,Fever,Obesity,4
+5158,42,F,112/63,98,29,36.9,12,Fever,Asthma,3
+8502,38,M,175/86,64,30,36.6,14,Shortness of Breath,Heart Disease,2
+5919,85,F,94/117,66,26,35.4,7,Confusion,Hypertension,5
+2436,27,M,159/62,80,23,39.2,4,Confusion,COPD,3
+4787,51,M,92/89,99,19,38.7,7,Headache,COPD,3
+5484,90,M,165/118,63,18,36.1,6,Confusion,Heart Disease,5
+936,48,M,130/108,84,23,36.2,5,Dizziness,COPD,5
+9304,89,F,99/76,116,15,40.3,9,Dizziness,Hypertension,3
+7471,29,F,151/79,97,18,35.5,4,Fever,Hypertension,4
+6584,23,M,127/80,83,17,36.9,11,Fatigue,Obesity,1
+4303,87,M,93/81,118,24,39.2,7,Confusion,Hypertension,2
+6786,71,M,143/67,85,12,36.5,14,Dizziness,Heart Disease,4
+8488,70,F,137/81,79,15,38.9,4,Fever,Heart Disease,3
+2234,48,F,102/74,116,27,38.6,13,Nausea,Arthritis,4
+1943,35,F,175/82,117,19,37.1,11,Fever,Heart Disease,2
+1062,90,F,125/67,100,21,41.0,13,Severe Pain,Arthritis,5
+9226,80,F,158/101,114,15,38.4,3,Confusion,None,5
+8185,31,M,177/92,101,23,38.8,5,Severe Pain,Obesity,5
+5980,18,F,135/118,87,21,36.7,10,Confusion,Asthma,4
+7536,67,M,122/80,98,30,38.3,9,Fatigue,Diabetes,2
+5306,33,F,104/64,103,26,36.0,6,Severe Pain,Arthritis,2
+2993,25,F,109/73,61,22,39.0,15,Shortness of Breath,Diabetes,5
+9611,66,F,160/86,78,14,35.6,13,Headache,Arthritis,3
+7932,41,F,149/75,98,26,35.9,12,Chest Pain,Asthma,3
+473,77,F,93/90,70,15,37.3,11,Dizziness,None,1
+1069,20,F,97/95,103,14,36.1,10,Fatigue,Arthritis,4
+2293,86,M,162/111,67,18,39.5,15,Headache,Obesity,4
+1386,52,M,160/91,60,24,40.8,3,Fatigue,Obesity,2
+7558,76,F,155/105,92,25,35.2,15,Abdominal Pain,Asthma,1
+5048,55,F,90/100,88,13,38.9,13,Nausea,Hypertension,1
+9886,35,F,91/63,113,27,40.2,3,Nausea,Heart Disease,1
+3465,76,M,176/78,65,17,37.2,15,Dizziness,Cancer,5
+549,24,M,126/77,79,28,36.8,13,Headache,Asthma,2
+1052,58,F,157/101,88,12,37.1,14,Nausea,COPD,3
+239,88,M,110/75,87,13,39.5,6,Severe Pain,Hypertension,1
+7048,43,F,126/75,65,27,40.5,6,Chest Pain,Arthritis,4
+4011,32,M,108/94,111,13,36.0,7,Dizziness,None,2
+5967,50,F,152/73,80,21,39.1,13,Nausea,COPD,3
+8894,47,F,95/114,118,12,37.8,10,Severe Pain,Diabetes,2
+2005,55,F,152/65,105,14,37.3,5,Shortness of Breath,Hypertension,4
+8777,70,M,135/118,111,26,36.1,3,Abdominal Pain,Hypertension,1
+6314,20,F,123/66,77,30,37.3,13,Abdominal Pain,Diabetes,2
+8507,80,M,112/107,80,25,40.6,11,Dizziness,None,5
+7785,66,M,126/111,103,15,38.3,14,Fatigue,None,2
+8342,23,F,92/110,75,16,39.7,3,Abdominal Pain,Hypertension,3
+6435,45,F,106/99,72,20,35.0,10,Abdominal Pain,Asthma,4
+337,23,F,157/118,84,12,37.3,7,Shortness of Breath,Hypertension,5
+6713,22,M,158/119,72,24,36.5,3,Severe Pain,None,1
+2669,20,F,96/90,70,21,37.3,11,Fever,Hypertension,1
+2522,30,M,168/63,106,22,40.3,14,Confusion,Arthritis,3
+9350,55,F,99/81,100,24,39.2,4,Shortness of Breath,Arthritis,3
+9479,68,M,101/119,113,12,37.9,4,Chest Pain,None,4
+8380,25,F,124/110,106,14,36.6,13,Nausea,Arthritis,4
+7758,24,F,122/113,65,22,38.1,8,Chest Pain,Hypertension,1
+6541,20,F,143/100,94,23,38.5,6,Shortness of Breath,COPD,5
+6650,34,M,129/69,108,28,37.1,5,Shortness of Breath,Heart Disease,2
+1411,33,M,166/61,83,14,39.6,9,Chest Pain,Arthritis,5
+9535,71,F,104/110,117,19,36.1,7,Severe Pain,Cancer,4
+3031,60,M,138/87,91,24,37.3,7,Dizziness,Hypertension,3
+5729,33,M,161/106,62,14,38.6,12,Shortness of Breath,Hypertension,3
+9959,62,F,139/63,66,18,37.9,10,Headache,Obesity,5
+669,77,M,111/66,60,17,38.4,4,Abdominal Pain,Diabetes,2
+8815,63,F,126/83,115,21,35.0,8,Dizziness,COPD,3
+8100,88,F,125/89,87,12,36.9,7,Confusion,Diabetes,4
+990,27,M,111/74,115,20,37.0,12,Chest Pain,Diabetes,1
+2482,38,F,145/93,101,23,36.4,13,Confusion,Obesity,5
+5249,32,M,109/100,84,19,37.9,6,Dizziness,Hypertension,5
+5072,61,M,142/61,88,16,38.1,10,Fever,COPD,4
+4130,38,M,128/115,76,21,38.9,8,Confusion,Obesity,1
+1116,64,F,132/120,64,20,39.2,8,Confusion,COPD,4
+3898,66,F,153/112,84,22,40.9,13,Abdominal Pain,Obesity,2
+3621,29,F,110/78,87,15,35.1,10,Fever,Arthritis,4
+604,76,F,163/105,77,22,40.1,6,Nausea,Diabetes,1
+950,84,F,126/86,62,27,36.0,8,Fever,Obesity,2
+3496,41,F,163/102,85,13,35.2,6,Abdominal Pain,Diabetes,2
+5410,42,M,94/82,114,25,38.4,13,Chest Pain,Obesity,2
+4963,25,M,94/92,111,16,36.9,10,Shortness of Breath,Arthritis,4
+284,18,F,166/92,81,17,40.7,12,Confusion,Hypertension,3
+2828,85,M,173/80,113,28,39.3,6,Confusion,Obesity,1
+4731,83,M,117/91,80,30,38.9,13,Nausea,COPD,5
+1065,47,M,144/75,79,16,40.4,15,Severe Pain,Heart Disease,4
+6272,89,F,167/114,115,29,39.8,7,Confusion,Obesity,4
+7671,68,M,120/90,87,24,35.0,9,Confusion,Diabetes,4
+773,89,F,90/91,87,23,35.3,5,Fever,Cancer,3
+2373,73,M,108/83,91,23,38.6,6,Nausea,Obesity,4
+72,66,M,150/74,77,25,38.1,7,Severe Pain,Asthma,5
+1508,75,M,99/107,83,26,39.7,7,Nausea,Arthritis,4
+9057,85,F,154/75,61,17,40.7,4,Headache,Hypertension,1
+4026,75,M,175/76,98,17,39.6,3,Confusion,Obesity,3
+154,85,M,99/81,62,15,38.1,4,Shortness of Breath,None,5
+2309,75,F,139/118,112,12,39.4,6,Headache,None,3
+3784,64,M,95/66,75,23,39.7,10,Severe Pain,COPD,5
+7129,26,M,139/82,95,14,36.8,8,Shortness of Breath,Diabetes,3
+2539,56,F,103/81,72,25,36.5,4,Headache,Asthma,5
+1762,47,F,180/85,94,27,40.5,5,Confusion,Heart Disease,4
+7195,58,F,100/81,120,15,36.8,14,Abdominal Pain,Obesity,5
+1417,57,F,106/115,105,20,40.6,6,Confusion,Asthma,1
+8739,36,M,148/72,94,12,39.0,3,Severe Pain,Hypertension,2
+6226,30,M,164/88,64,23,36.5,3,Severe Pain,Diabetes,2
+6241,89,F,148/117,74,17,39.0,12,Severe Pain,Asthma,1
+9866,27,F,90/77,93,20,35.3,6,Dizziness,None,2
+6638,28,F,98/111,63,24,38.5,11,Headache,Cancer,2
+1553,86,F,146/94,91,30,35.3,8,Fever,Asthma,5
+2491,26,M,151/84,68,17,36.0,5,Confusion,Cancer,4
+8595,79,F,113/106,61,25,36.8,9,Abdominal Pain,Cancer,2
+4877,34,M,157/79,62,19,40.4,6,Severe Pain,None,5
+7593,36,M,175/98,94,15,38.2,13,Chest Pain,Diabetes,5
+9680,23,M,103/111,118,14,36.7,4,Chest Pain,Hypertension,4
+1467,80,F,142/74,71,28,37.3,12,Headache,Arthritis,2
+5317,79,M,143/103,110,20,35.2,13,Shortness of Breath,Asthma,3
+7572,65,F,106/99,89,26,39.0,14,Dizziness,Arthritis,4
+970,21,F,109/62,70,24,37.7,11,Fever,Heart Disease,4
+7362,20,M,166/66,89,17,35.6,12,Severe Pain,Arthritis,4
+4751,44,M,145/90,95,24,38.4,15,Confusion,None,5
+1302,67,F,96/96,82,23,37.1,11,Chest Pain,Arthritis,5
+6200,38,F,103/105,95,21,38.4,6,Abdominal Pain,Obesity,5
+7306,40,F,132/103,79,13,36.2,7,Shortness of Breath,COPD,4
+7383,81,F,179/83,83,18,37.1,4,Fever,Asthma,3
+7031,81,F,167/62,93,19,35.7,3,Severe Pain,Arthritis,1
+9015,35,F,116/118,108,29,37.1,11,Chest Pain,Diabetes,1
+5000,58,M,107/116,99,22,36.5,7,Fatigue,Obesity,5
+3910,84,M,172/111,67,16,39.4,8,Abdominal Pain,Obesity,4
+3824,26,F,92/70,83,18,37.4,15,Dizziness,Cancer,3
+8632,83,M,90/116,78,19,37.3,6,Chest Pain,COPD,2
+5867,81,M,90/87,90,26,36.9,9,Headache,Cancer,1
+104,50,M,173/70,72,23,37.5,5,Shortness of Breath,Asthma,2
+2173,72,F,99/84,113,14,37.4,9,Headache,Hypertension,1
+5889,88,M,112/84,112,29,36.1,7,Fever,Asthma,3
+2156,46,M,103/73,94,28,40.5,15,Severe Pain,Diabetes,3
+6329,73,F,119/66,107,27,35.7,3,Confusion,Heart Disease,2
+799,32,M,104/110,64,15,40.4,3,Shortness of Breath,Obesity,2
+3652,78,F,177/107,117,30,39.0,12,Abdominal Pain,Cancer,3
+1296,22,M,172/64,103,21,37.0,12,Chest Pain,Arthritis,5
+8979,38,M,119/62,106,25,36.1,15,Fever,Cancer,3
+5747,70,F,150/86,116,13,36.5,11,Fatigue,Diabetes,2
+3577,51,M,170/111,84,28,35.4,6,Shortness of Breath,None,1
+646,38,M,153/108,104,30,35.6,12,Nausea,Cancer,3
+9529,81,F,114/98,68,17,37.8,15,Severe Pain,Hypertension,4
+6102,87,F,165/92,62,13,39.2,7,Chest Pain,Diabetes,5
+5376,67,F,104/116,95,25,36.7,13,Chest Pain,Asthma,2
+5927,41,M,167/79,107,18,38.5,3,Fatigue,Hypertension,3
+6712,54,M,91/105,116,23,40.5,8,Chest Pain,Cancer,1
+92,24,M,175/120,87,21,38.4,3,Headache,COPD,5
+6074,33,M,108/70,104,22,39.2,11,Fever,Arthritis,4
+2945,37,M,170/108,117,21,40.9,5,Confusion,Diabetes,3
+3016,87,F,97/116,60,23,38.5,15,Headache,Cancer,3
+5152,66,F,154/64,98,26,37.7,5,Dizziness,Cancer,1
+5781,59,F,164/111,82,20,38.1,12,Dizziness,None,5
+6806,49,F,172/101,65,17,36.5,10,Fatigue,Diabetes,2
+6071,41,M,109/88,88,25,35.7,3,Confusion,Arthritis,4
+5952,81,F,135/82,60,22,37.6,5,Fever,COPD,3
+5054,83,F,168/61,86,20,37.2,7,Dizziness,Diabetes,4
+2855,22,F,180/63,67,16,40.1,9,Shortness of Breath,Obesity,5
+2868,18,F,120/98,73,26,37.6,10,Fatigue,Cancer,2
+7689,61,F,146/92,118,25,36.1,12,Fatigue,Diabetes,4
+3046,54,M,116/70,100,21,39.1,5,Severe Pain,Obesity,3
+5923,18,F,171/84,64,13,39.7,4,Headache,Obesity,4
+9598,89,M,162/82,83,22,37.4,7,Shortness of Breath,Asthma,4
+3887,45,F,179/66,81,17,38.9,13,Shortness of Breath,Hypertension,4
+6467,58,F,128/89,75,12,37.9,3,Confusion,Diabetes,4
+8043,29,F,145/97,84,24,37.4,3,Nausea,Arthritis,5
+3839,73,M,133/102,117,25,37.3,9,Headache,None,5
+3382,84,F,178/62,63,17,39.8,11,Fatigue,Asthma,1
+9935,77,M,91/108,73,20,38.5,10,Fever,None,5
+1032,27,F,125/61,118,27,35.3,7,Dizziness,Arthritis,5
+4599,62,M,153/62,120,23,37.4,6,Nausea,Diabetes,5
+1949,78,F,170/92,98,17,36.5,4,Shortness of Breath,Hypertension,2
+1389,90,M,97/94,115,13,39.6,12,Dizziness,Diabetes,3
+4682,83,M,152/92,71,26,37.0,8,Nausea,Obesity,2
+1071,55,M,122/64,70,30,40.6,13,Fever,Obesity,3
+7933,57,M,119/113,95,19,36.3,6,Dizziness,Heart Disease,3
+7792,77,F,141/101,118,14,35.4,4,Severe Pain,Arthritis,3
+4215,49,F,163/70,78,17,38.4,5,Shortness of Breath,COPD,5
+9788,56,M,172/66,110,26,40.0,10,Severe Pain,None,1
+8979,32,F,94/105,72,15,36.6,13,Severe Pain,Hypertension,1
+2227,70,F,94/89,108,17,37.3,14,Nausea,Asthma,3
+4648,79,F,174/79,115,29,38.5,5,Shortness of Breath,Arthritis,3
+5526,21,F,149/87,64,14,36.6,10,Severe Pain,Diabetes,5
+9956,61,M,107/108,83,27,35.5,4,Dizziness,None,1
+7230,50,F,138/68,65,17,35.8,4,Fever,Diabetes,1
+8978,66,F,166/85,63,22,38.9,9,Chest Pain,COPD,3
+6096,75,M,113/78,111,13,39.1,4,Fever,Heart Disease,3
+1057,73,M,133/97,74,24,40.3,12,Nausea,Asthma,4
+9281,54,F,159/101,90,24,37.2,14,Fatigue,Obesity,3
+8936,67,M,131/77,92,29,39.1,9,Abdominal Pain,Cancer,1
+9874,44,F,146/106,89,16,40.5,4,Nausea,Hypertension,4
+4925,70,F,111/104,119,19,36.5,4,Headache,None,2
+821,76,F,132/73,93,17,37.7,11,Confusion,Arthritis,5
+2633,72,F,163/101,90,30,35.1,12,Dizziness,Obesity,1
+7663,88,M,176/91,103,23,38.3,7,Confusion,Asthma,1
+893,84,M,177/108,88,16,36.4,9,Severe Pain,None,2
+6710,18,M,103/82,120,14,35.2,8,Headache,None,2
+9493,86,M,156/72,107,30,36.8,14,Chest Pain,Asthma,5
+6579,80,M,174/117,82,17,37.5,9,Severe Pain,Hypertension,5
+2728,51,F,179/117,60,13,39.2,11,Fever,None,2
+7973,28,M,171/106,91,15,38.4,15,Fever,Heart Disease,3
+8231,40,F,133/71,64,26,37.8,3,Confusion,Asthma,2
+622,72,M,107/76,86,30,36.0,14,Fatigue,Diabetes,2
+1530,36,M,154/85,92,18,36.7,15,Fatigue,Heart Disease,5
+4524,23,F,133/100,117,14,37.3,5,Severe Pain,Cancer,3
+4293,81,F,118/114,115,17,40.8,6,Fever,None,1
+8832,69,F,166/71,67,29,37.3,11,Chest Pain,None,5
+2782,78,M,128/78,66,13,40.5,3,Severe Pain,COPD,5
+8495,62,F,122/77,80,19,38.2,4,Dizziness,None,1
+8506,72,F,175/118,91,27,35.3,14,Fever,Cancer,2
+801,26,F,140/101,76,20,37.8,5,Fever,COPD,2
+2141,21,M,99/76,102,20,37.9,7,Dizziness,Obesity,2
+6849,89,F,109/117,61,29,40.5,5,Nausea,Diabetes,3
+6142,72,M,123/103,85,18,35.6,7,Chest Pain,Diabetes,3
+716,27,M,125/88,74,18,39.9,4,Dizziness,None,2
+6630,61,M,145/89,98,28,39.9,14,Fatigue,None,3
+9198,50,M,140/61,98,16,35.1,7,Abdominal Pain,Heart Disease,2
+744,76,M,115/102,114,25,36.6,6,Chest Pain,Obesity,5
+9967,81,F,180/83,74,26,38.4,13,Severe Pain,Heart Disease,4
+6619,44,F,152/67,66,25,39.6,9,Fatigue,Heart Disease,3
+8238,73,M,165/108,89,29,40.5,12,Fatigue,Heart Disease,2
+3312,61,F,113/111,68,18,37.4,14,Nausea,Cancer,4
+7146,25,F,177/64,73,13,37.4,6,Abdominal Pain,Diabetes,3
+813,81,M,121/77,65,25,38.6,3,Chest Pain,None,1
+8271,36,F,105/81,63,28,37.3,8,Fever,Obesity,3
+9814,55,M,131/93,95,12,37.0,9,Fever,Diabetes,5
+6607,75,F,144/88,103,21,37.1,7,Abdominal Pain,Hypertension,5
+2702,56,F,132/93,98,17,37.4,6,Confusion,Cancer,4
+1390,65,M,177/119,106,20,36.7,15,Fatigue,Obesity,1
+4679,50,M,114/69,69,25,35.5,3,Confusion,None,2
+2046,79,F,165/103,63,30,37.7,13,Headache,None,2
+4698,48,M,151/73,75,19,40.0,13,Severe Pain,COPD,1
+3995,89,F,166/102,116,18,35.5,15,Dizziness,Arthritis,3
+9532,80,M,121/102,115,26,38.7,15,Confusion,Diabetes,4
+7644,77,F,174/88,92,24,35.4,9,Fatigue,Obesity,1
+4205,63,F,159/95,119,20,36.2,9,Dizziness,Diabetes,3
+1279,78,F,99/86,101,21,37.3,3,Severe Pain,None,2
+8041,61,M,164/75,63,19,39.5,11,Headache,Hypertension,3
+7096,82,M,172/108,78,22,39.3,14,Fatigue,Hypertension,2
+8843,75,M,95/116,66,24,39.3,11,Severe Pain,None,5
+9277,54,F,149/68,112,12,36.1,10,Headache,Arthritis,3
+3034,36,F,107/96,107,15,37.8,6,Chest Pain,Hypertension,2
+9695,46,M,159/107,89,13,38.9,11,Severe Pain,Hypertension,3
+211,36,M,176/64,62,28,36.5,4,Chest Pain,None,4
+6861,44,M,135/106,77,14,40.1,12,Abdominal Pain,Hypertension,5
+7788,52,F,151/107,113,12,39.9,3,Nausea,Cancer,3
+8643,86,F,147/107,71,13,40.9,15,Abdominal Pain,Arthritis,3
+5880,82,F,120/62,62,29,40.0,3,Abdominal Pain,Arthritis,4
+6443,28,F,176/118,102,28,38.9,4,Headache,Hypertension,3
+8511,45,F,166/71,69,22,37.4,5,Shortness of Breath,Arthritis,3
+5849,89,M,117/80,119,23,39.4,11,Abdominal Pain,None,3
+8433,41,F,98/83,108,25,36.6,4,Shortness of Breath,COPD,1
+9010,36,F,143/70,88,18,40.4,10,Fever,Hypertension,2
+5968,33,F,150/84,86,24,37.1,15,Abdominal Pain,Asthma,4
+5334,26,M,103/93,93,26,37.7,12,Headache,Asthma,3
+2633,41,F,140/119,65,27,40.0,4,Fever,Hypertension,1
+6981,35,F,154/81,114,23,35.5,12,Abdominal Pain,Hypertension,3
+4493,39,M,104/113,60,29,40.3,14,Fever,COPD,5
+4809,37,F,148/98,84,17,38.1,8,Abdominal Pain,Cancer,4
+437,78,M,145/101,91,12,35.5,6,Headache,Hypertension,5
+1805,75,M,156/97,101,18,36.5,14,Dizziness,Diabetes,1
+292,20,M,179/109,94,17,39.5,6,Shortness of Breath,Asthma,2
+3799,80,M,166/88,89,20,38.4,13,Shortness of Breath,Arthritis,2
+7879,18,F,150/90,89,26,35.1,7,Chest Pain,None,4
+3663,80,M,169/118,104,21,37.9,7,Fatigue,None,5
+2152,76,F,135/100,66,18,36.1,7,Headache,Heart Disease,3
+1307,33,M,161/77,118,14,35.1,10,Nausea,Heart Disease,4
+267,45,M,115/104,88,12,35.8,12,Chest Pain,Diabetes,4
+6529,71,M,136/85,96,15,39.4,9,Fever,COPD,2
+9383,41,M,105/74,105,25,36.9,10,Shortness of Breath,Cancer,3
+7787,77,F,154/74,77,13,36.4,13,Confusion,Hypertension,4
+2871,53,F,111/91,75,13,35.0,13,Abdominal Pain,Heart Disease,3
+3526,55,F,149/63,75,16,35.6,13,Confusion,Hypertension,1
+1255,73,M,125/90,101,22,39.3,10,Dizziness,Asthma,5
+5446,31,M,151/102,89,18,35.7,4,Confusion,Obesity,3
+3061,43,F,152/63,99,14,35.2,13,Fever,COPD,4
+4269,72,F,130/82,113,15,36.3,6,Shortness of Breath,Asthma,3
+4383,32,F,120/97,68,22,38.0,15,Dizziness,Diabetes,5
+6166,63,M,145/90,67,17,36.9,7,Dizziness,Asthma,5
+9645,81,F,109/115,60,17,40.5,4,Nausea,Cancer,4
+8246,34,M,161/118,100,22,39.7,4,Nausea,Heart Disease,5
+9183,36,F,122/115,76,25,37.8,12,Fatigue,Asthma,2
+4277,49,M,172/117,94,29,40.5,13,Abdominal Pain,Arthritis,4
+648,84,F,97/60,68,23,38.2,11,Shortness of Breath,Hypertension,5
+2031,61,F,101/68,115,26,38.6,6,Fatigue,Hypertension,1
+4996,43,F,158/95,80,12,38.5,12,Severe Pain,Hypertension,2
+3583,50,M,110/106,77,19,40.5,6,Fever,Heart Disease,5
+6668,69,F,114/67,118,22,36.1,15,Headache,Diabetes,3
+6178,36,F,175/74,108,25,36.0,15,Severe Pain,Heart Disease,5
+3331,69,M,172/77,99,19,36.0,6,Chest Pain,Diabetes,3
+3991,39,M,147/90,111,27,36.0,14,Shortness of Breath,Arthritis,2
+8259,28,F,172/92,103,27,36.6,13,Fever,Arthritis,5
+7532,64,M,131/108,113,25,38.2,4,Severe Pain,Cancer,3
+8348,18,F,156/74,76,24,39.6,14,Severe Pain,Hypertension,5
+4524,57,F,170/77,120,19,35.6,4,Chest Pain,Obesity,1
+5993,26,F,154/87,101,24,38.4,6,Fatigue,COPD,3
+2155,44,M,167/103,92,14,40.3,12,Nausea,Hypertension,3
+3936,49,M,154/105,82,16,35.5,6,Nausea,Cancer,3
+9666,24,M,125/79,105,30,38.7,5,Severe Pain,Heart Disease,5
+7643,89,F,109/102,105,26,35.0,14,Chest Pain,None,3
+3539,37,F,127/114,88,28,35.8,6,Fever,Arthritis,5
+1237,81,M,152/70,72,22,36.6,12,Fatigue,Cancer,4
+642,63,M,107/112,88,17,35.9,10,Nausea,COPD,5
+3249,66,F,129/90,108,21,35.7,4,Severe Pain,Obesity,5
+3395,69,M,156/83,82,18,38.5,9,Confusion,Asthma,2
+7529,47,M,93/91,84,16,39.5,9,Headache,Arthritis,5
+4677,23,F,161/70,85,20,36.9,7,Severe Pain,Arthritis,3
+4099,22,F,150/71,120,17,38.1,3,Headache,Cancer,4
+4355,35,M,135/80,87,18,38.9,3,Severe Pain,None,2
+6824,49,M,137/80,68,19,36.2,15,Nausea,None,4
+9665,57,F,147/107,76,22,38.6,7,Fatigue,Obesity,3
+1929,88,F,95/71,70,22,35.6,14,Nausea,COPD,2
+5498,50,F,133/108,96,14,40.2,14,Chest Pain,Heart Disease,2
+7163,42,F,132/100,62,30,39.9,6,Confusion,Asthma,1
+5048,63,M,173/69,86,29,36.7,3,Fever,Hypertension,4
+1171,29,M,155/112,97,19,35.2,6,Shortness of Breath,Diabetes,4
+4598,89,M,140/71,120,24,35.3,12,Fever,Hypertension,5
+9217,48,F,131/75,91,15,40.8,15,Abdominal Pain,None,2
+1127,48,F,174/93,62,12,39.5,3,Nausea,Obesity,5
+9164,32,F,135/97,116,29,40.5,4,Chest Pain,Heart Disease,3
+731,47,M,126/91,61,17,37.0,11,Fatigue,Diabetes,2
+8926,29,F,179/63,72,18,40.1,12,Chest Pain,Heart Disease,4
+1953,79,F,143/95,114,22,37.9,12,Fever,COPD,1
+5076,49,F,121/74,69,28,37.6,8,Headache,Hypertension,4
+5488,39,M,108/95,114,20,38.8,11,Headache,Heart Disease,3
+7679,67,M,116/64,86,28,38.4,12,Severe Pain,None,2
+1856,87,F,92/87,70,24,40.9,15,Fatigue,Obesity,5
+4114,33,M,91/68,68,15,38.9,12,Abdominal Pain,Obesity,1
+2597,27,M,94/95,94,30,37.3,12,Chest Pain,Asthma,1
+3590,82,F,144/110,82,12,39.4,4,Severe Pain,Heart Disease,3
+9337,82,M,99/63,104,29,39.3,12,Headache,Cancer,1
+279,25,F,117/116,99,27,40.2,14,Dizziness,Arthritis,4
+2530,69,F,122/102,113,30,38.8,11,Fever,Diabetes,5
+8120,89,M,100/77,80,15,39.1,5,Confusion,Obesity,1
+8082,23,F,147/93,75,17,36.9,9,Shortness of Breath,Obesity,5
+9843,35,F,167/101,91,22,37.7,8,Abdominal Pain,Cancer,3
+1146,21,M,147/87,92,29,40.6,11,Chest Pain,Arthritis,3
+4883,28,M,101/68,91,14,40.6,6,Severe Pain,Arthritis,5
+1601,20,F,158/119,95,20,35.7,7,Nausea,Heart Disease,3
+3075,40,M,151/81,107,25,36.8,11,Headache,Obesity,3
+8882,53,F,172/87,84,19,35.3,15,Shortness of Breath,Hypertension,4
+1865,32,M,136/77,84,24,39.4,6,Confusion,Heart Disease,2
+1729,34,F,116/71,110,14,38.7,14,Dizziness,Asthma,4
+8753,55,M,91/62,119,25,36.7,11,Dizziness,Arthritis,1
+1078,39,F,100/89,110,17,35.6,9,Fatigue,Obesity,2
+1468,26,M,179/66,110,14,40.8,14,Nausea,Diabetes,4
+2452,49,F,115/78,84,27,36.1,6,Abdominal Pain,COPD,3
+1728,23,M,160/70,107,27,39.7,12,Chest Pain,Diabetes,1
+1555,19,F,102/90,92,14,39.0,4,Fatigue,Asthma,2
+7928,22,M,114/115,67,12,37.1,12,Severe Pain,Obesity,3
+966,24,F,129/65,77,20,35.4,4,Fever,Asthma,4
+2712,40,M,151/79,90,13,38.5,4,Fever,Asthma,3
+3766,61,F,128/73,106,19,36.3,4,Fatigue,Obesity,4
+9740,64,M,162/67,100,24,40.6,3,Confusion,Heart Disease,5
+7281,19,M,165/120,70,30,38.3,10,Headache,None,1
+5034,58,F,150/118,81,18,40.8,10,Chest Pain,Asthma,1
+9858,67,M,166/100,90,29,35.7,7,Severe Pain,COPD,5
+7805,70,M,147/67,95,15,38.7,9,Chest Pain,Diabetes,3
+321,82,M,160/109,120,26,36.8,3,Headache,None,1
+6136,22,F,90/75,103,26,36.8,15,Fever,Cancer,1
+9468,21,F,160/101,108,26,35.7,3,Severe Pain,Cancer,4
+8282,44,F,160/82,99,13,35.7,10,Abdominal Pain,Arthritis,1
+4758,86,M,152/103,103,20,37.9,6,Abdominal Pain,Hypertension,3
+8056,77,F,149/78,77,23,38.3,10,Confusion,Cancer,1
+4278,89,M,100/61,113,21,40.3,13,Abdominal Pain,Heart Disease,1
+6287,32,M,101/89,76,23,38.5,11,Dizziness,Asthma,1
+9467,41,M,143/65,74,19,36.7,7,Confusion,COPD,2
+2066,58,F,98/105,80,30,35.1,12,Fever,None,3
+4643,42,M,176/92,88,21,40.6,10,Fatigue,Diabetes,1
+1525,88,M,155/81,94,18,38.5,6,Fever,Obesity,5
+9108,22,M,124/95,84,22,37.8,7,Severe Pain,Diabetes,2
+7516,48,F,100/64,108,12,39.3,12,Severe Pain,Cancer,2
+1780,47,M,147/100,84,30,39.6,11,Confusion,Obesity,2
+451,29,M,180/78,120,17,39.1,3,Fatigue,Arthritis,5
+1379,86,F,100/89,116,13,37.9,9,Chest Pain,Obesity,1
+8613,77,F,158/97,81,30,39.8,4,Fever,Hypertension,2
+7778,55,M,161/106,100,24,39.9,10,Dizziness,None,1
+2095,71,M,142/74,100,12,35.5,15,Fatigue,Cancer,5
+9369,24,F,126/96,120,14,38.7,11,Confusion,Cancer,1
+3405,54,M,126/82,117,15,35.5,3,Shortness of Breath,Heart Disease,2
+6865,64,F,151/61,101,25,40.9,5,Fever,Cancer,5
+1694,32,M,110/64,119,25,37.4,4,Fatigue,Hypertension,3
+8142,38,M,104/92,98,12,36.9,14,Fever,Asthma,5
+9864,71,M,129/64,110,28,35.6,13,Chest Pain,Cancer,4
+66,67,F,164/85,119,23,37.7,14,Fatigue,Asthma,2
+5210,44,F,150/104,100,18,38.9,12,Fatigue,Arthritis,3
+6159,75,M,180/60,86,24,40.6,5,Severe Pain,Asthma,2
+3272,25,F,166/93,68,20,35.8,7,Dizziness,COPD,1
+6797,88,F,145/108,114,22,39.2,9,Shortness of Breath,Asthma,3
+4633,37,M,107/105,78,13,39.6,12,Chest Pain,Hypertension,1
+9727,52,F,125/92,82,12,37.6,9,Fever,Cancer,2
+7216,26,F,179/74,117,22,39.6,7,Confusion,Obesity,5
+4109,75,F,112/87,70,29,37.4,14,Nausea,Cancer,5
+9209,22,M,163/97,103,19,39.9,3,Fever,Heart Disease,1
+9543,37,M,178/65,68,14,35.2,13,Fever,Obesity,2
+2671,71,F,113/89,104,14,41.0,9,Dizziness,Obesity,4
+9201,88,M,170/70,81,16,37.0,10,Chest Pain,None,5
+3090,23,M,147/78,118,12,36.0,5,Dizziness,None,3
+4214,47,M,162/118,73,30,37.0,8,Confusion,Heart Disease,3
+6774,87,M,113/85,74,17,40.9,10,Shortness of Breath,Obesity,5
+1192,79,F,155/72,74,24,36.7,8,Dizziness,Obesity,2
+8956,59,F,116/105,102,17,36.2,8,Abdominal Pain,Cancer,3
+2474,43,M,115/106,79,14,36.6,14,Nausea,COPD,1
+925,51,F,114/78,103,16,39.6,10,Chest Pain,Cancer,4
+808,24,F,163/115,82,20,37.8,12,Headache,Diabetes,1
+8819,56,F,119/104,93,22,36.3,9,Headache,Arthritis,5
+5789,58,F,127/117,65,12,36.6,12,Nausea,Cancer,5
+8065,55,F,107/92,117,27,37.7,9,Fever,Hypertension,3
+9610,72,F,149/93,67,14,39.1,10,Fatigue,Diabetes,4
+8978,18,F,130/95,81,14,36.7,7,Abdominal Pain,Cancer,5
+2060,75,F,112/95,91,12,35.4,6,Abdominal Pain,Hypertension,2
+351,78,F,141/72,78,18,40.2,10,Chest Pain,Arthritis,4
+9074,62,M,138/82,111,26,37.3,15,Confusion,None,2
+4710,51,M,95/103,102,12,36.9,5,Fever,Diabetes,1
+4473,81,F,167/118,93,21,39.9,15,Headache,Arthritis,3
+4670,66,M,133/107,117,17,41.0,12,Severe Pain,Heart Disease,2
+5605,62,F,128/62,77,17,36.2,4,Dizziness,Cancer,3
+5081,71,M,157/117,113,15,37.7,13,Chest Pain,None,3
+5723,33,F,116/96,110,27,40.7,14,Shortness of Breath,Heart Disease,1
+9284,54,M,152/93,87,12,35.6,4,Dizziness,COPD,3
+8319,51,M,95/119,106,14,37.0,9,Fever,None,1
+9171,65,F,120/97,115,25,36.2,6,Nausea,Heart Disease,2
+5283,67,M,162/84,66,28,38.5,7,Nausea,Diabetes,5
+4796,60,M,95/69,86,12,37.2,12,Headache,Arthritis,4
+912,27,M,95/71,120,12,35.9,7,Abdominal Pain,Diabetes,2
+8927,18,M,153/77,80,27,37.7,6,Severe Pain,Hypertension,4
+2444,36,M,143/74,75,26,40.4,14,Severe Pain,COPD,3
+6798,46,M,167/75,63,28,38.5,7,Shortness of Breath,Diabetes,2
+1350,83,F,91/95,68,25,36.2,10,Dizziness,None,4
+7230,18,M,166/102,91,21,39.4,6,Nausea,Cancer,5
+2365,34,F,91/83,76,18,39.9,3,Dizziness,Asthma,4
+9597,58,M,143/113,101,27,35.3,15,Nausea,Diabetes,5
+5062,61,F,103/98,112,20,37.8,10,Confusion,None,3
+9006,71,M,146/102,76,16,40.6,4,Chest Pain,Heart Disease,4
+5672,32,M,140/107,120,23,38.0,5,Dizziness,Cancer,4
+8358,18,F,133/87,105,19,37.2,15,Severe Pain,Cancer,4
+7155,33,M,103/87,81,18,39.5,13,Severe Pain,COPD,3
+3307,40,F,169/81,101,27,38.4,13,Dizziness,Diabetes,4
+3908,65,M,114/61,90,25,35.3,4,Shortness of Breath,Hypertension,1
+2390,39,M,119/80,117,22,38.2,9,Fever,Heart Disease,3
+8922,83,M,104/65,75,13,39.6,5,Fatigue,COPD,2
+850,35,M,137/106,72,23,36.1,13,Severe Pain,Heart Disease,4
+5278,65,M,117/61,64,26,39.7,6,Severe Pain,Arthritis,1
+8379,65,F,145/106,120,25,35.6,14,Nausea,Heart Disease,5
+790,75,M,137/82,106,22,37.6,3,Headache,COPD,2
+676,31,F,95/66,97,30,39.8,9,Nausea,Asthma,4
+2091,83,M,146/76,97,15,37.8,5,Confusion,Heart Disease,1
+2710,55,F,130/83,74,21,36.2,3,Shortness of Breath,None,1
+6223,62,F,96/81,113,16,39.2,6,Severe Pain,Arthritis,5
+7773,21,M,97/95,72,18,39.3,4,Abdominal Pain,Obesity,2
+6133,73,M,167/70,94,13,39.4,8,Fatigue,Hypertension,2
+1148,24,M,163/87,71,12,37.0,10,Chest Pain,COPD,2
+720,23,M,139/104,115,16,40.5,13,Shortness of Breath,Obesity,5
+5488,19,F,162/71,109,17,36.3,5,Fever,Cancer,4
+8812,55,M,97/92,75,26,38.6,10,Chest Pain,Diabetes,1
+5827,76,F,132/106,107,29,36.0,6,Fever,Cancer,1
+8367,76,M,162/79,112,28,39.9,14,Dizziness,Asthma,2
+2651,77,F,105/89,68,30,39.7,9,Nausea,Obesity,1
+2312,42,M,115/90,80,21,40.6,6,Headache,Diabetes,3
+5048,82,F,133/107,90,21,40.0,10,Chest Pain,Heart Disease,2
+3216,45,F,97/79,79,23,38.6,8,Severe Pain,Asthma,5
+9753,64,F,171/108,95,14,39.9,8,Severe Pain,Heart Disease,1
+2482,55,F,138/88,61,28,41.0,12,Severe Pain,Asthma,2
+9471,89,F,118/97,94,28,40.6,15,Severe Pain,Obesity,3
+4427,80,F,141/115,114,20,38.1,12,Confusion,Asthma,2
+6750,31,M,114/117,87,28,36.5,12,Shortness of Breath,None,1
+4034,75,M,120/89,79,13,40.8,11,Abdominal Pain,Heart Disease,2
+2464,48,M,114/97,85,19,38.2,12,Nausea,Cancer,2
+9394,77,F,176/74,95,19,38.3,13,Severe Pain,Obesity,3
+34,72,M,179/63,68,30,38.1,15,Confusion,Heart Disease,3
+740,65,F,162/103,89,23,35.0,4,Headache,Obesity,5
+3520,80,M,123/88,74,26,40.8,7,Confusion,None,5
+8347,57,M,124/71,103,16,39.1,9,Dizziness,Arthritis,5
+7569,28,F,110/110,83,27,39.0,13,Fever,None,4
+5283,58,F,94/68,105,29,35.4,4,Fatigue,None,4
+3257,90,M,122/86,117,21,35.4,13,Shortness of Breath,COPD,1
+7251,29,M,126/105,118,15,38.2,6,Fatigue,Heart Disease,1
+4465,76,M,91/77,79,23,39.8,3,Nausea,Obesity,5
+8995,83,F,160/100,65,21,40.2,9,Nausea,Cancer,1
+376,68,M,149/83,60,22,40.6,3,Abdominal Pain,Arthritis,4
+8284,90,F,152/65,69,22,36.5,10,Abdominal Pain,COPD,1
+1528,72,F,129/99,114,30,35.1,12,Fever,Cancer,2
+5185,53,F,111/111,64,20,37.6,10,Shortness of Breath,Cancer,1
+1724,39,M,170/88,102,15,37.4,14,Chest Pain,Arthritis,2
+3967,26,M,97/93,98,26,37.7,6,Abdominal Pain,Cancer,3
+7805,48,F,132/103,64,30,38.1,13,Severe Pain,Diabetes,4
+7410,51,M,149/76,70,14,40.6,13,Chest Pain,Hypertension,5
+71,62,F,157/101,60,29,40.2,6,Severe Pain,None,1
+2548,88,F,90/107,73,19,38.4,10,Nausea,Asthma,1
+9858,56,F,171/110,101,20,36.6,3,Fever,Heart Disease,3
+7098,65,M,92/64,71,21,35.3,11,Fever,Diabetes,5
+4923,88,F,148/112,108,19,38.0,11,Fatigue,Asthma,2
+6936,85,M,123/115,78,13,38.5,10,Confusion,Obesity,5
+6904,47,M,159/98,77,30,39.4,11,Nausea,Heart Disease,5
+8830,18,F,148/119,116,19,36.0,11,Fatigue,Asthma,5
+3223,79,M,144/96,69,14,36.0,15,Chest Pain,Hypertension,1
+1707,58,M,160/76,71,13,35.6,3,Fatigue,Obesity,4
+5629,31,M,149/84,63,12,40.2,10,Fever,Hypertension,3
+9578,75,M,108/76,94,27,37.0,3,Headache,COPD,2
+9149,44,M,105/62,80,25,38.5,8,Confusion,Obesity,5
+6600,66,M,110/67,117,19,38.9,10,Confusion,Asthma,3
+585,48,F,151/118,108,22,39.1,8,Fever,COPD,5
+9751,42,F,171/86,99,25,39.2,8,Headache,None,2
+9338,61,F,139/66,68,30,40.3,5,Headache,Obesity,5
+6219,85,F,175/109,114,26,38.1,4,Abdominal Pain,Hypertension,3
+3703,43,F,143/79,114,18,38.0,6,Chest Pain,Arthritis,1
+2610,58,M,127/109,74,22,36.8,6,Confusion,COPD,1
+61,21,M,166/109,97,20,39.2,11,Nausea,Diabetes,1
+4519,75,M,134/66,71,18,40.5,7,Headache,Arthritis,5
+801,79,F,154/95,114,26,35.8,15,Headache,Asthma,4
+2727,70,F,104/115,108,25,35.2,9,Headache,COPD,2
+4240,22,M,175/70,90,18,35.9,13,Fatigue,Cancer,3
+8617,71,F,177/101,95,25,39.2,10,Shortness of Breath,Arthritis,2
+9884,32,F,171/70,91,23,40.5,5,Nausea,Heart Disease,1
+1322,54,F,118/67,104,22,35.9,13,Chest Pain,Obesity,5
+9236,62,F,105/89,75,12,39.7,8,Severe Pain,Arthritis,2
+3633,85,M,148/94,69,18,36.0,10,Severe Pain,Diabetes,5
+2710,87,M,118/60,81,27,38.6,12,Fatigue,None,3
+235,52,M,107/111,109,15,35.1,12,Shortness of Breath,Asthma,1
+9421,66,M,104/112,112,29,36.3,4,Fatigue,Hypertension,1
+801,21,F,91/89,111,24,39.8,8,Dizziness,Cancer,3
+3718,70,F,177/92,60,25,39.0,3,Shortness of Breath,None,4
+9140,26,F,168/87,120,14,39.6,12,Confusion,None,4
+4758,86,M,119/71,107,12,40.6,8,Shortness of Breath,None,3
+6456,52,M,109/112,71,15,40.7,14,Nausea,Diabetes,3
+7561,67,M,173/114,72,20,39.7,15,Dizziness,Arthritis,5
+4256,79,F,168/107,62,19,35.0,7,Shortness of Breath,Heart Disease,4
+41,47,F,128/90,72,17,37.9,11,Abdominal Pain,Obesity,2
+8018,26,F,180/87,113,13,39.3,8,Fever,None,3
+7238,46,F,136/67,107,13,38.9,6,Fatigue,Obesity,1
+6419,74,F,131/90,106,21,35.2,8,Chest Pain,Arthritis,2
+8730,51,M,124/77,63,15,38.8,12,Headache,Hypertension,2
+1717,65,F,116/82,94,20,35.9,4,Dizziness,Diabetes,5
+6903,88,F,120/92,96,30,35.9,11,Fatigue,Diabetes,5
+7802,86,M,160/86,82,18,39.8,8,Dizziness,None,3
+343,79,M,93/103,120,19,39.2,7,Confusion,COPD,3
+4670,84,F,104/77,71,17,36.6,8,Severe Pain,Diabetes,5
+3861,83,M,148/104,72,23,40.9,9,Dizziness,Arthritis,1
+8333,60,F,95/63,73,21,39.6,3,Fatigue,None,1
+309,25,F,170/96,92,22,35.7,13,Confusion,Cancer,5
+9928,33,M,134/60,62,29,40.0,14,Severe Pain,Arthritis,3
+6933,24,M,171/112,118,14,39.6,14,Nausea,Asthma,5
+6921,34,M,132/110,69,23,35.2,5,Fatigue,Asthma,4
+7474,83,F,101/65,82,30,37.8,14,Fatigue,Cancer,3
+8218,90,M,134/86,71,25,37.2,10,Fever,Asthma,5
+8314,26,F,164/92,114,24,40.3,7,Shortness of Breath,None,5
+8355,27,M,123/72,94,15,39.3,6,Nausea,Heart Disease,1
+3322,88,F,146/63,67,25,40.4,12,Shortness of Breath,Obesity,5
+1321,85,F,161/72,92,17,40.2,6,Chest Pain,Heart Disease,2
+5443,75,M,180/102,90,29,40.0,4,Headache,Heart Disease,5
+4245,34,M,106/86,93,15,40.5,7,Shortness of Breath,Heart Disease,5
+922,71,M,147/88,119,13,39.9,12,Abdominal Pain,Diabetes,3
+7017,19,M,180/101,93,30,35.3,6,Severe Pain,Cancer,2
+583,62,M,178/77,66,25,40.9,6,Shortness of Breath,Asthma,3
+6618,51,F,122/101,118,21,35.4,13,Chest Pain,Arthritis,1
+1779,55,M,130/90,78,14,39.3,6,Nausea,Hypertension,1
+3200,77,F,165/65,88,20,38.9,9,Nausea,COPD,5
+4397,52,M,122/90,114,19,37.4,7,Severe Pain,None,1
+5937,19,M,95/70,61,23,37.6,7,Dizziness,None,4
+2372,69,M,101/75,60,25,35.3,13,Headache,Arthritis,3
+5152,74,F,156/60,81,27,36.9,11,Fatigue,None,2
+2550,34,M,94/92,82,30,39.2,11,Chest Pain,Hypertension,2
+9581,59,F,98/105,100,15,35.9,6,Shortness of Breath,None,4
+5316,43,M,141/69,91,18,40.6,14,Fever,Hypertension,5
+6140,48,M,101/65,96,25,40.7,7,Abdominal Pain,Arthritis,2
+1608,24,F,125/64,75,22,37.6,13,Shortness of Breath,Obesity,4
+2271,69,M,152/89,95,22,36.7,8,Dizziness,Diabetes,2
+4782,44,M,111/95,79,30,38.5,8,Confusion,Arthritis,2
+1163,74,F,112/105,86,19,39.5,6,Severe Pain,None,1
+9086,74,F,134/72,96,23,39.6,8,Fatigue,None,1
+2825,23,F,164/96,92,14,40.8,13,Abdominal Pain,Obesity,3
+3032,21,F,147/90,65,23,35.2,9,Dizziness,Diabetes,1
+8437,48,M,167/65,72,29,35.3,13,Shortness of Breath,Arthritis,1
+3192,39,M,179/78,117,29,39.2,8,Fever,COPD,1
+3589,69,F,138/60,72,20,38.4,10,Severe Pain,Heart Disease,4
+8052,77,M,98/61,83,13,38.1,8,Fatigue,Diabetes,5
+5430,83,F,123/95,108,18,36.9,3,Severe Pain,Cancer,1
+4868,82,F,107/97,69,23,37.0,5,Chest Pain,Cancer,5
+2815,71,M,98/113,85,19,38.5,9,Dizziness,Diabetes,3
+4716,32,F,136/118,62,23,37.4,13,Chest Pain,Heart Disease,1
+4608,36,M,140/118,101,21,36.0,11,Shortness of Breath,Obesity,1
+8894,83,M,137/67,63,21,38.1,8,Shortness of Breath,Diabetes,5
+2527,55,M,166/94,82,19,36.5,13,Chest Pain,Diabetes,5
+182,29,M,171/75,75,27,38.6,7,Shortness of Breath,Obesity,3
+8245,18,F,180/87,98,13,39.3,12,Fatigue,None,5
+6654,66,M,170/103,98,25,36.8,8,Nausea,Arthritis,1
+2183,77,F,172/64,111,26,35.5,3,Confusion,Diabetes,2
+22,34,F,116/93,68,14,38.8,5,Fatigue,Cancer,3
+5845,61,M,144/81,89,23,39.9,3,Fatigue,Cancer,3
+2877,29,M,139/77,82,25,37.6,5,Nausea,Cancer,5
+5508,27,F,148/117,86,28,36.2,12,Severe Pain,Diabetes,5
+7061,26,F,130/115,63,29,39.2,9,Chest Pain,Obesity,3
+4778,38,M,111/68,99,17,37.3,10,Dizziness,Cancer,5
+1538,22,M,139/102,116,16,36.4,10,Confusion,Cancer,3
+175,85,M,141/91,101,16,37.7,13,Fatigue,Diabetes,1
+1594,78,M,154/86,115,23,40.5,9,Nausea,Asthma,1
+3319,71,F,169/78,111,13,38.3,11,Confusion,Arthritis,2
+6471,67,F,140/105,105,25,38.5,4,Fever,Cancer,2
+4831,59,F,174/112,112,15,40.3,15,Nausea,Diabetes,1
+5773,74,M,177/80,91,18,39.5,10,Shortness of Breath,Heart Disease,4
+79,47,F,163/76,105,25,38.2,11,Chest Pain,Arthritis,2
+7376,31,F,122/87,72,29,37.5,15,Confusion,Arthritis,3
+5306,40,F,113/113,120,25,36.5,8,Confusion,Diabetes,3
+6060,61,M,93/76,74,17,37.7,6,Chest Pain,Hypertension,4
+5952,18,F,117/85,80,20,39.9,5,Confusion,Diabetes,2
+7006,64,F,166/103,76,19,39.2,3,Nausea,Obesity,3
+9947,28,F,146/108,71,25,39.4,15,Confusion,Diabetes,2
+6495,18,M,93/73,98,30,36.5,12,Chest Pain,Asthma,5
+6081,23,M,171/101,62,12,35.3,15,Fever,Diabetes,2
+6908,52,M,112/105,94,20,35.7,9,Headache,Asthma,1
+2232,52,M,117/85,76,23,37.3,9,Dizziness,Arthritis,4
+7076,59,M,121/71,94,20,40.0,6,Fatigue,Cancer,4
+3275,24,F,141/68,100,12,37.6,3,Dizziness,Obesity,1
+2608,67,M,153/112,97,22,36.1,7,Dizziness,COPD,2
+5244,45,M,179/61,78,18,39.7,4,Fatigue,Hypertension,2
+8419,84,M,158/94,116,24,35.3,13,Shortness of Breath,Arthritis,1
+1263,46,F,144/114,119,19,40.9,8,Fever,Diabetes,2
+2986,51,M,110/113,92,27,38.6,8,Headache,Diabetes,4
+6868,78,M,113/118,89,28,36.3,13,Abdominal Pain,Arthritis,3
